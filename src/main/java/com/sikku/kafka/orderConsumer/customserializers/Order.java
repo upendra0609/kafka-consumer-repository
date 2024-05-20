@@ -1,4 +1,4 @@
-package com.sikku.kafka.orderProducer01.customserializers;
+package com.sikku.kafka.orderConsumer.customserializers;
 
 public class Order {
 	private String customerName;
